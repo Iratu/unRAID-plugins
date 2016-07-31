@@ -331,7 +331,7 @@ fuse-exfat-1.2.1-x86_64-1_slack.txz
 hfsprogs-332.25-x86_64-2sl.txz
 -->
 <FILE Name="&packages;/hfsprogs-332.25-x86_64-2sl.txz" Run="upgradepkg --install-new">
-<URL>https://slackware.org.uk/slacky/slackware64-14.1/system/hfsprogs/332.25/hfsprogs-332.25-x86_64-2sl.txz</URL>
+<URL>http://slackware.org.uk/slacky/slackware64-14.1/system/hfsprogs/332.25/hfsprogs-332.25-x86_64-2sl.txz</URL>
 <MD5>9ddd7cb7e0782e9fb7756b1946808228</MD5>
 </FILE>
 
@@ -339,7 +339,7 @@ hfsprogs-332.25-x86_64-2sl.txz
 libbsd-0.6.0-x86_64-1sl.txz
 -->
 <FILE Name="&packages;/libbsd-0.6.0-x86_64-1sl.txz" Run="upgradepkg --install-new">
-<URL>https://slackware.org.uk/slacky/slackware64-14.1/libraries/libbsd/0.6.0/libbsd-0.6.0-x86_64-1sl.txz</URL>
+<URL>http://slackware.org.uk/slacky/slackware64-14.1/libraries/libbsd/0.6.0/libbsd-0.6.0-x86_64-1sl.txz</URL>
 <MD5>1d403a59c467a37f040de3fde2c23518</MD5>
 </FILE>
 
@@ -347,7 +347,7 @@ libbsd-0.6.0-x86_64-1sl.txz
 parted-3.1-x86_64-1.txz
 -->
 <FILE Name="&packages;/parted-3.1-x86_64-1.txz" Run="upgradepkg --install-new">
-<URL>https://slackware.osuosl.org/slackware64-14.1/slackware64/l/parted-3.1-x86_64-1.txz</URL>
+<URL>http://slackware.osuosl.org/slackware64-14.1/slackware64/l/parted-3.1-x86_64-1.txz</URL>
 <MD5>140283cca20483fcacd805201b33798a</MD5>
 </FILE>
 
@@ -355,7 +355,7 @@ parted-3.1-x86_64-1.txz
 libnl-1.1.4-x86_64-1.txz
 -->
 <FILE Name="&packages;/libnl-1.1.4-x86_64-1.txz" Run="upgradepkg --install-new">
-<URL>https://slackware.osuosl.org/slackware64-14.1/slackware64/l/libnl-1.1.4-x86_64-1.txz</URL>
+<URL>http://slackware.osuosl.org/slackware64-14.1/slackware64/l/libnl-1.1.4-x86_64-1.txz</URL>
 <MD5>435837a5bf0401a937d6ec93e458333b</MD5>
 </FILE>
 
