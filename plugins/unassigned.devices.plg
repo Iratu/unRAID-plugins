@@ -305,10 +305,10 @@ Get the plugin bundle.
 </FILE>
 
 <!--
-ntfs-3g-2015.3.14-x86_64-1.txz
+ntfs-3g-2016.2.22-x86_64-1.txz
 -->
-<FILE Name="&packages;/ntfs-3g-2015.3.14-x86_64-1.txz" Run="upgradepkg --install-new">
-<URL>http://slackbuilds.org/mirror/slackware/slackware64-current/slackware64/a/ntfs-3g-2015.3.14-x86_64-1.txz</URL>
+<FILE Name="&packages;/ntfs-3g-2016.2.22-x86_64-1.txz" Run="upgradepkg --install-new">
+<URL>http://slackbuilds.org/mirror/slackware/slackware64-current/slackware64/a/ntfs-3g-2016.2.22-x86_64-1.txz</URL>
 <MD5>eb146c115f0272944695f116cfb6105d</MD5>
 </FILE>
 
